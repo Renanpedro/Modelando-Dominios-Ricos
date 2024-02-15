@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FTqTSAVAR3FCRbnaAvbsczx45r0jEt7JdYavGJZbJCWaI9AoR0jt2rrCO0/FJRRpV0g3uTYWs2vOTh5zGi/1mg==",
+  "dgSpecHash": "m+6YrF7r/fW4rKB3VPzShYfxCpn8VcKg7ikCmtJEJTx6Kxb5fjfSflpt5LjJSbIup19XBlesceygnqf9wk8akw==",
   "success": true,
   "projectFilePath": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

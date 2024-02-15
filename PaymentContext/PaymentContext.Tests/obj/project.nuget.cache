@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dastPBh5gL0Dg6WTOQevOMqaZ9Vzg1A2OPPPO5+KADp274obh8K984mTTz0odJQDzFntgURG/6h1jAgNFUsodQ==",
+  "dgSpecHash": "g9mEzsyshoQ9bDvufrPBLlUmalRewWmyQ3Mj2LK0yTHWhJBBG+zDzBKWzByZcjPiM3B9HOj/a/0WCM+BpLDmRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",

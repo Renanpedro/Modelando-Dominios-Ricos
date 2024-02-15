@@ -1,28 +1,29 @@
+using paymentcontext.Domain.ValueObjects;
+using PaymentContext.Shared.Entities;
+
 namespace paymentcontext.Domain.Entities
 {
-    public class Student
+    public class Student : Entity
     {
         private IList<Subscription> _subscriptions;
-        public Student(string firstName, string lastName, string document, string email)
+        public Student(Name name, Document document, Email email)
         {
-            FirstName = firstName;
-            LastName = lastName;
+            Name = name;
             Document = document;
             Email = email;
             _subscriptions = new List<Subscription>();
+
+            AddNotifications(name, document, email);
         }
 
-        public string FirstName { get; private set; } = string.Empty;
-        public string LastName { get; private set; } = string.Empty;
-        public string Document { get; private set; } = string.Empty;
-        public string Email { get; private set; } = string.Empty;
-        public string Address { get; private set; } = string.Empty;
+        public Name Name { get; private set; }
+        public Document Document { get; set; }
+        public Email Email { get; private set; }
+        public Address Address { get; private set; }
         public IReadOnlyCollection<Subscription> Subscriptions { get{return _subscriptions.ToArray();}}
 
         public void AddSubscription(Subscription subscription)
         {
-            // Se ja tiver assinatura ativa, cancela
-
             // Cancela todas as outras assinaturas, e coloca esta como principal
             foreach(var sub in Subscriptions)
             {

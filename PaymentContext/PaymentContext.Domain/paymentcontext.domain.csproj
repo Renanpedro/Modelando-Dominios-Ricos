@@ -4,6 +4,10 @@
     <ProjectReference Include="..\PaymentContext.Shared\paymentcontext.shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="flunt" Version="1.0.5" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

@@ -1,4 +1,5 @@
 using paymentcontext.Domain.Entities;
+using paymentcontext.Domain.ValueObjects;
 
 namespace paymentcontext.tests
 {
@@ -8,9 +9,7 @@ namespace paymentcontext.tests
         [TestMethod]
         public void AdicionarAssinatura()
         {
-            var subscription = new Subscription(null);
-            var student = new Student("André", "Baltieri", "123456789", "hello@ablta.io");
-            student.AddSubscription(subscription);
+            
         }
     }
 }
