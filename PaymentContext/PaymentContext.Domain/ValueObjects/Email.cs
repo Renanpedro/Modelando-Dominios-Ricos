@@ -11,7 +11,7 @@ namespace paymentcontext.Domain.ValueObjects
 
             AddNotifications(new Contract()
                 .Requires()
-                .IsEmail(address, "Email.Address", "E-mail inválido")
+                .IsEmail(Address, "Email.Address", "E-mail inválido")
             );
         }
 
