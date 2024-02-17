@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PaymentContext.Tests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("paymentcontext.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PaymentContext.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PaymentContext.Tests")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6cdc0a85dc5f89cf52b71efe47944ee514651d7")]
+[assembly: System.Reflection.AssemblyProductAttribute("paymentcontext.tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("paymentcontext.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
