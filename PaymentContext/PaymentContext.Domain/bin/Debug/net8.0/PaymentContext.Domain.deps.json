@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "PaymentContext.Domain/1.0.0": {
+      "paymentcontext.domain/1.0.0": {
         "dependencies": {
-          "PaymentContext.Shared": "1.0.0",
-          "Flunt": "1.0.5"
+          "Flunt": "1.0.5",
+          "paymentcontext.shared": "1.0.0"
         },
         "runtime": {
-          "PaymentContext.Domain.dll": {}
+          "paymentcontext.domain.dll": {}
         }
       },
       "Flunt/1.0.5": {
@@ -23,18 +23,18 @@
           }
         }
       },
-      "PaymentContext.Shared/1.0.0": {
+      "paymentcontext.shared/1.0.0": {
         "dependencies": {
           "Flunt": "1.0.5"
         },
         "runtime": {
-          "PaymentContext.Shared.dll": {}
+          "paymentcontext.shared.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PaymentContext.Domain/1.0.0": {
+    "paymentcontext.domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -46,7 +46,7 @@
       "path": "flunt/1.0.5",
       "hashPath": "flunt.1.0.5.nupkg.sha512"
     },
-    "PaymentContext.Shared/1.0.0": {
+    "paymentcontext.shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,5 +1,3 @@
-
-
 using paymentcontext.Domain.ValueObjects;
 
 namespace paymentcontext.Domain.Entities

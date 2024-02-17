@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
+    "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\paymentcontext.shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\paymentcontext.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-        "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\paymentcontext.shared.csproj",
+        "projectName": "paymentcontext.shared",
+        "projectPath": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\paymentcontext.shared.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\renan\\Desktop\\ESTUDO\\Balta.io\\Modelando Domínios Ricos - 1975\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
